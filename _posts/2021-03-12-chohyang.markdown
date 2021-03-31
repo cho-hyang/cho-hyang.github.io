@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Hello"
 date:   2021-03-12 15:45:51 +0900
 categories: jekyll update
