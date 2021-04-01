@@ -1,4 +1,9 @@
-
+---
+layout: single
+title:  "READ ME"
+date:   2021-04-01
+categories: READ ME
+---
 # 분할 정복(Divide-and-Conquer) 알고리즘
 > 주어진 문제의 입력을 분할하여 문제를 해결(정복)하는 방식의 알고리즘
 
